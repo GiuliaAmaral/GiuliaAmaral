@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**GiuliaAmaral/GiuliaAmaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+ Oi gente, muito prazer!
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+Faz algum tempo que minha história com programaçao começou, lá em meados de 2018, eu estava fazendo estágio em finanças (sou formanda em Administração) e participei de um projeto voltado para estagiários cujo objetivo era desenvolver inovação para a empresa, e eu decidi criar um aplicativo para minha área, fiz um MVP e fiquei entre os 10 projetos considerados inovadores dentre mais de 100 projetos que participaram.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Sempre fui uma entusiasta de tecnologia, construia foguetinhos com propulsão de água quando criança, (tentei contruir um telescópio com rolos de papelão até não ter dinheiro para comprar as lentes haha), todo esse universo que envolve a ciência me fascina, e tecnologia e ciência andam de mãos dadas.
+</p>
+
+<p align="left">
+ Hoje em dia estou estudando e me aprimorando cada vez mais, e espero que de alguma forma, eu possa contribuir para essa comunidade, e principalmente inspirar mulheres e meninas a seres programadoras nesse nosso Brasil.
+</p>
+
+<p align="left">
+  Obrigada por ler esse textão até aqui ❤️
+</p>
