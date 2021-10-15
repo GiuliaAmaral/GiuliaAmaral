@@ -15,11 +15,7 @@ Faz algum tempo que minha história com programaçao começou, lá em meados de 
 </p>
 
 <p align="left">
-  Sempre fui uma entusiasta de tecnologia, construia foguetinhos com propulsão de água quando criança, (tentei contruir um telescópio com rolos de papelão até não ter dinheiro para comprar as lentes haha), todo esse universo que envolve a ciência me fascina, e tecnologia e ciência andam de mãos dadas.
-</p>
-
-<p align="left">
- Hoje em dia estou estudando e me aprimorando cada vez mais, e espero que de alguma forma, eu possa contribuir para essa comunidade, e principalmente inspirar mulheres e meninas a seres programadoras nesse nosso Brasil.
+Desde então tenho feito diversos freelas, participado de projetos e tenho buscando contribuir cada vez mais para essa comunidade, e principalmente inspirar mulheres e meninas a seres programadoras nesse nosso Brasil.
 </p>
 
 <p align="left">
