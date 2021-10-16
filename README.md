@@ -1,10 +1,16 @@
+<style>
+  .gatinho{
+    border-radius: 20px;
+  }
+</style>
+  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuliaAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaAmaral&layout=compact&langs_count=7&theme=tokyonight"/>
   <br/><br/><br/>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.imgur.com/PP5CP1g.gif" class="gatinho" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  Sempre tive muita paixão por Design, e essa foi a minha porta de entrada no universo da programação front-end, a possibilidade de transformar páginas estáticas em dinâmicas expandiu minha mente, e desde então tenho buscado a evolução constante nas linguagens, frameworks e metodologias relacionadas a minha área de atuação.
