@@ -7,17 +7,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Oi gente, muito prazer!
+ Sempre tive muita paixão por Design, e essa foi a minha porta de entrada no universo da programação front-end, a possibilidade de transformar páginas estáticas em dinâmicas expandiu minha mente, e desde então tenho buscado a evolução constante nas linguagens, frameworks e metodologias relacionadas a minha área de atuação.
 </p>
 
 <p align="left">
-Faz algum tempo que minha história com programaçao começou, lá em meados de 2018, eu estava fazendo estágio em finanças (sou formanda em Administração) e participei de um projeto voltado para estagiários cujo objetivo era desenvolver inovação para a empresa, e eu decidi criar um aplicativo para minha área, fiz um MVP e fiquei entre os 10 projetos considerados inovadores dentre mais de 100 projetos que participaram.
+Eu adoro resolver desafios, e ao mesmo tempo, deixar as coisas bonitas. Sempre que possuo um tempo livre, aproveito para construir projetos paralelos para aprimorar minhas habilidades. Fique à vontade para me seguir nas redes socias e acompanhar meu trabalho.
 </p>
 
-<p align="left">
-Desde então tenho feito diversos freelas, participado de projetos e tenho buscando contribuir cada vez mais para essa comunidade, e principalmente inspirar mulheres e meninas a seres programadoras nesse nosso Brasil.
-</p>
-
-<p align="left">
-  Obrigada por ler esse textão até aqui ❤️
-</p>
