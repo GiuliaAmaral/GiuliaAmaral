@@ -4,7 +4,7 @@
   <br/><br/><br/>
 </div>
 
-<img src="https://i.imgur.com/JoitVwh.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.imgur.com/n1SBjIp.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  Sempre tive muita paixão por Design, e essa foi a minha porta de entrada no universo da programação front-end, a possibilidade de transformar páginas estáticas em dinâmicas expandiu minha mente, e desde então tenho buscado a evolução constante nas linguagens, frameworks e metodologias relacionadas a minha área de atuação.
