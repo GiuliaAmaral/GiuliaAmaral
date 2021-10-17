@@ -6,6 +6,11 @@
   <br/><br/><br/>
 </div>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F700E9&lines=I'm+Front-End+Development+%3C3"></a>
+</p>
+
 <img src="https://i.imgur.com/n1SBjIp.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
