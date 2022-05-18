@@ -1,10 +1,5 @@
 ### Olá, pode me chamar de Giu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuliaAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaAmaral&layout=compact&langs_count=7&theme=tokyonight"/>
-  <br/><br/><br/>
-</div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
